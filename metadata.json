@@ -1,0 +1,6 @@
+{
+  "name": "Exam Reporting Portal",
+  "description": "Manage classes, subjects, students, record grades (including CA1 out of 10 marks), and generate report cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
